@@ -22,6 +22,9 @@ h2 {
 .half-width img {
   width: 80%;
 }
+.half-width p {
+  margin-right: 135px;
+}
 .link-button {
   text-decoration: none;
   background-image: linear-gradient(salmon, tomato);
@@ -39,9 +42,7 @@ h2 {
   background-repeat: no-repeat;
   background-position: right;
 }
-p {
-  margin-right: 135px;
-}
+
 .experience-area {
   background-image: url(images/exp-bg.png);
   background-repeat: no-repeat;
